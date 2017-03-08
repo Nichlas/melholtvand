@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Placeholder page
 
 You can use the [editor on GitHub](https://github.com/Nichlas/melholtvand/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
