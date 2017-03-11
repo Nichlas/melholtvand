@@ -9,6 +9,9 @@
     <img id="headerphoto" src="https://www.melholtvand.dk/wp-content/themes/wp-andreas01/img/front.jpg">
     </div>
       <div id="menu">
+
+		    {% include header.html %}
+
       <ul>
         <li><a href="">Home</a></li>
         <li><a href="">About</a></li>
@@ -17,26 +20,9 @@
       </ul>
       </div>
       <div id="content">
-        <h2>Lorem ipsum</h2>
-        <p>Dolor sit amet</p>
-        <blockquote>
-          Testing <a href="">testing</a>.
-        </blockquote>
-        <table>
-          <tr class="odd">
-            <td>Navn</td>
-            <td class="number">Nummer</td>
-          </tr>
-          <tr class="even">
-            <td>Per</td>
-            <td class="number">199</td>
-          </tr>
-          <tr class="odd">
-            <td>Per</td>
-            <td class="number">118</td>
-          </tr>
-        </table>
-        
+
+        {{ content }}
+
       </div>
 
     {% include footer.html %}
