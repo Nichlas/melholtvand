@@ -1,20 +1,47 @@
-<!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
+  <head>
+  <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+  <title>A PEN BY</title>
+  </head>
   <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <div id="wrap">
+    <div id="head">
+    <h1>Headline</h1>
+    <img id="headerphoto" src="https://www.melholtvand.dk/wp-content/themes/wp-andreas01/img/front.jpg">
+    </div>
+      <div id="menu">
+      <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Links</a></li>
+        <li><a href="">News</a></li>
+      </ul>
+      </div>
+      <div id="content">
+        <h2>Lorem ipsum</h2>
+        <p>Dolor sit amet</p>
+        <blockquote>
+          Testing <a href="">testing</a>.
+        </blockquote>
+        <table>
+          <tr class="odd">
+            <td>Navn</td>
+            <td class="number">Nummer</td>
+          </tr>
+          <tr class="even">
+            <td>Per</td>
+            <td class="number">199</td>
+          </tr>
+          <tr class="odd">
+            <td>Per</td>
+            <td class="number">118</td>
+          </tr>
+        </table>
+        
+      </div>
+      <div id="footer">
+        <p>© 2017 Melholt Vandværk - Hjelmkærvej 21, 9340 Asaa</p>
       </div>
     </div>
-
-    {% include footer.html %}
-
   </body>
-
 </html>
