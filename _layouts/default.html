@@ -2,31 +2,19 @@
 
   {% include head.html %}
 
-  <body>
-    <div id="wrap">
-    <div id="head">
-    <h1>Headline</h1>
-    <img id="headerphoto" src="https://www.melholtvand.dk/wp-content/themes/wp-andreas01/img/front.jpg">
-    </div>
-      <div id="menu">
+<body>
 
-		    {% include header.html %}
+  <div id="wrap">
+    {% include header.html %}
 
-<!--      <ul>
-        <li><a href="">Home</a></li>
-        <li><a href="">About</a></li>
-        <li><a href="">Links</a></li>
-        <li><a href="">News</a></li>
-      </ul> -->
-      </div>
-      <div id="content">
-
-        {{ content }}
-
-      </div>
+	<div id="content">
+    {{ content }}
+	</div>
 
     {% include footer.html %}
+	
 
-    </div>
-  </body>
+  </div>
+
+</body>
 </html>
