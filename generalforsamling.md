@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Generalforsamling
-permalink: gf/
+permalink: /
 published: true
 ---
 
