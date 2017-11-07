@@ -2,12 +2,12 @@
 layout: default
 title: Generalforsamling
 permalink: gf/
-published: false
+published: true
 ---
 
 # Generalforsamling
 
-MANDAG, den **21. november 2016 kl. 19.30** i Melholt Forsamlingshus
+MANDAG, den **27. november 2016 kl. 19.30** i Melholt Forsamlingshus
 
 med følgende dagsorden:
 
@@ -18,6 +18,7 @@ med følgende dagsorden:
  5. Valg af medlemmer og suppleanter til bestyrelsen.
  6. Valg af revisor og suppleant.
  7. Behandling af indkomne forslag.
+    7.2. Justering af takstblad.
  8. Eventuelt.
 
 – Bestyrelsen
