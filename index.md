@@ -18,7 +18,7 @@ med følgende dagsorden:
 5. Valg af medlemmer og suppleanter til bestyrelsen.
 6. Valg af revisor og suppleant.
 7. Behandling af indkomne forslag.
-  7.2. Justering af takstblad.
+  1. Justering af takstblad.
 8. Eventuelt.
 
 – Bestyrelsen
