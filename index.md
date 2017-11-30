@@ -1,26 +1,17 @@
 ---
 layout: default
-title: Generalforsamling
-permalink: /
-published: true
+title: Om Vandværket
+permalink: /front
 ---
 
-# Generalforsamling
+# Om Vandværket
 
-MANDAG, den **27. november 2016 kl. 19.30** i Melholt Forsamlingshus
+Vandværket er et interessentskab stiftet d. 10 August 1950, og har hjemsted i Brønderslev Kommune.
 
-med følgende dagsorden:
+Se resultater af de seneste vandprøver af [AnalyTech Miljølaboratorium A/S](http://www.analytech.dk/Link.aspx?CustomerID=8379)
 
-1. Valg af dirigent.
-2. Beretning om det forløbne år.
-3. Det reviderede regnskab forelægges til godkendelse.
-4. Budget for det kommende år fremlægges.
-5. Valg af medlemmer og suppleanter til bestyrelsen.
-6. Valg af revisor og suppleant.
-7. Behandling af indkomne forslag.
-* Justering af takstblad.
-8. Eventuelt.
+Selskabets formålsparagraf er følgende
 
-– Bestyrelsen
+> Selskabets formål er i overensstemmelse med den til enhver tid gældende vandforsyningslov og det for vandværket fastsatte regulativ, at forsyne ejendomme inden for vandværkets forsyningsområde med godt og tilstrækkeligt vand til lavest mulige driftsbidrag, som foruden driftsomkostningerne skal dække forsvarlige afskrivninger af anlæg og rimelige henlæggelser til fornyelser og nødvendige udvidelser samt at varetage medlemmernes fælles interesse i alle vandforsynings- og deraf afledte spørgsmål.
 
-> For at lokalisere et opstået vandspild, vil det lejlighedsvis være nødvendigt at lukke for vandet i nogle forsyningsområder. Denne lukning vil fortrinsvis ske om natten mellem kl. 01.00 og 05.00.
+Læs mere i foreningsvedtægten under [Vedtægt og Dokumenter]({{ site.url }}/vedtaegt/).
