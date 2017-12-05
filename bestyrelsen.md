@@ -16,7 +16,7 @@ Mobil: 61339884
 
 <p class="h-card">
   <span class="p-name">Finn Krogsgaard</span><br />
-  <a class="u-email" href="mailto:hjelmkaer@mail.dk">hjelmkaer@mail.dk</a><br />
+  hjelmkaer @ mail.dk<br />
   <span class="p-street-address">Hjelmkærvej 7</span><br />
   <span class="p-locality">9330 Dronninglund</span>
 </p>  
