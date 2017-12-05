@@ -8,6 +8,13 @@ permalink: bestyrelse/
 
 **Formand**
 <p class="h-card">
+  <span class="p-name">Peter Rosenbeck</span>
+</p>  
+Mobil: 61339884
+
+**Næstformand**
+
+<p class="h-card">
   <span class="p-name">Finn Krogsgaard</span><br />
   <a class="u-email" href="mailto:hjelmkaer@mail.dk">hjelmkaer@mail.dk</a><br />
   <span class="p-street-address">Hjelmkærvej 7</span><br />
@@ -15,13 +22,6 @@ permalink: bestyrelse/
 </p>  
 Mobil: 20193042  
 Privat: 98843042
-
-**Næstformand**
-
-<p class="h-card">
-  <span class="p-name">Peter Rosenbeck</span>
-</p>  
-Mobil: 61339884
 
 **Kassérer**
 

@@ -10,8 +10,8 @@ permalink: priser/
 
 | Ydelse                                                                    | Pris i kr. |
 |:--------------------------------------------------------------------------|-----------:|
-| Fast Afgift                                                               |     450,00 |
-| Målerleje                                                                 |      50,00 |
+| Fast Afgift                                                               |     650,00 |
+| Målerleje                                                                 |     150,00 |
 | Vandafgift (pr. m3)                                                       |       3,50 |
 | Grøn afgift, Told & Skat (pr. m3)                                         |       5,00 |
 | Flyttegebyr ved ejerskifte                                                |     100,00 |
@@ -20,7 +20,7 @@ permalink: priser/
 | Lukning/Genåbning	                                                        |     600,00 |
 | Genåbning af ubebyggede sommerhusgrunde + betaling af forfaldne restancer |    1500,00 |
 
-Taksterne gælder fra 1. Oktober 2011
+Taksterne gælder fra 1. Oktober 2017
 
 Vandafgift forfalder for fastboende halvårsvis hver den 1. oktober og 1. april med seneste betalingsfrist d. 15. december og 15. juni. For sommerhuse årligt forfald 1. oktober med betalingsfrist 15. deceember.
 
