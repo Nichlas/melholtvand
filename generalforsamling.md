@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Generalforsamling
-permalink: /gf
-published: false
+permalink: /
+published: true
 ---
 
 # Generalforsamling
 
-MANDAG, den **27. november 2016 kl. 19.30** i Melholt Forsamlingshus
+MANDAG, den **26. november 2018 kl. 19.30** i Melholt Forsamlingshus
 
 med følgende dagsorden:
 
