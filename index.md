@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Om Vandværket
-permalink: /
+permalink: /om
 ---
 
 # Om Vandværket
