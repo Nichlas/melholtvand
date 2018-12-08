@@ -10,10 +10,10 @@ permalink: priser/
 
 | Ydelse                                                                    | Pris i kr. |
 |:--------------------------------------------------------------------------|-----------:|
-| Fast Afgift                                                               |     650,00 |
+| Fast Afgift                                                               |     750,00 |
 | Målerleje                                                                 |     150,00 |
-| Vandafgift (pr. m3)                                                       |       3,50 |
-| Grøn afgift, Told & Skat (pr. m3)                                         |       5,00 |
+| Vandafgift (pr. m3)                                                       |       3,75 |
+| Grøn afgift, Told & Skat (pr. m3)                                         |       6,34 |
 | Flyttegebyr ved ejerskifte                                                |     100,00 |
 | Udsendelse af rykker                                                      |     100,00 |
 | Overskridelse af frist for returnering af aflæsningskort                  |     150,00 |
