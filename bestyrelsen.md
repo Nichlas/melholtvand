@@ -15,50 +15,45 @@ Mobil: 61339884
 **Næstformand**
 
 <p class="h-card">
-  <span class="p-name">Finn Krogsgaard</span><br />
-  hjelmkaer @ mail.dk<br />
-  <span class="p-street-address">Hjelmkærvej 7</span><br />
-  <span class="p-locality">9330 Dronninglund</span>
+  <span class="p-name">Thomas Kristoffersen</span><br />
 </p>  
-Mobil: 20193042  
-Privat: 98843042
+Tlf.: 52301042
 
 **Kassérer**
 
 <p class="h-card">
-  <span class="p-name">Peter Larsen</span><br />
-  <span class="p-street-address">Melholtvej 63</span><br />
-  <span class="p-locality">9370 Hals</span>
+  <span class="p-name">Kristian Bak Kvist</span><br />
 </p>  
 
-
-Mobil: 40198238  
-Privat: 98254838
+Tlf.: 22952657
 
 **Sekretær**
 
 <p class="h-card">
-  <span class="p-name">Per Nielsen</span>
+  <span class="p-name">Finn Krogsgaard</span>
 </p>  
 
-Mobil: 23825200
+Mobil: 20193042
 
-**Bestyrer**
-
-<p class="h-card">
-  <span class="p-name">Ole Peter Kristensen</span><br />
-  <span class="p-street-address">Kibsgårdsmosevej 4</span><br />
-  <span class="p-locality">9340 Aså</span>
-</p>  
-
-Mobil: 40743624  
-Privat: 98843624  
-Fax: 98843604
-
-**Suppleant**
+**Bestyrelsesmedlem**
 
 <p class="h-card">
   <span class="p-name">Lasse Bertelsen</span>
 </p>  
 
 Mobil: 22923281
+
+**Suppleant**
+
+<p class="h-card">
+  <span class="p-name">Karlo Horn</span>
+</p>  
+
+**Vandværkets Bestyrer**
+
+<p class="h-card">
+  <span class="p-name">Thomas Kristoffersen</span><br />
+</p>  
+
+Tlf.: 52300142
+
