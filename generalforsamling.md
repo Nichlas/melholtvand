@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Generalforsamling
-permalink: /
-published: true
+permalink: /gf
+published: false
 ---
 
 # Generalforsamling
