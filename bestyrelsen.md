@@ -30,10 +30,10 @@ Tlf.: 22952657
 **Sekretær**
 
 <p class="h-card">
-  <span class="p-name">Finn Krogsgaard</span>
+  <span class="p-name">Kristoffer Beck Bundgaard</span>
 </p>  
 
-Mobil: 20193042
+Mobil: 60661040
 
 **Bestyrelsesmedlem**
 
