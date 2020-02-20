@@ -22,7 +22,7 @@ Tlf.: 52301042
 **Kassérer**
 
 <p class="h-card">
-  <span class="p-name">Kristian Bak Kvist</span><br />
+  <span class="p-name">Christian Quist-Bak</span><br />
 </p>  
 
 Tlf.: 22952657
