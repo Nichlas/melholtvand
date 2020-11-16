@@ -6,6 +6,8 @@ permalink: /
 
 # Om Vandværket
 
+**VIGTIGT: Generalforsamling d. 30 November må desværre aflyses på grund af forsamlingsforbud**
+
 Vandværket er et interessentskab stiftet d. 10 August 1950, og har hjemsted i Brønderslev Kommune.
 
 Se resultater af de seneste vandprøver af [AnalyTech Miljølaboratorium A/S](http://www.analytech.dk/Link.aspx?CustomerID=8379)
