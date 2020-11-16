@@ -6,7 +6,7 @@ permalink: /
 
 # Om Vandværket
 
-**VIGTIGT: Generalforsamling d. 30 November må desværre aflyses på grund af forsamlingsforbud**
+> **VIGTIGT: Generalforsamling d. 30 November må desværre aflyses på grund af forsamlingsforbud**
 
 Vandværket er et interessentskab stiftet d. 10 August 1950, og har hjemsted i Brønderslev Kommune.
 
