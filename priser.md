@@ -20,7 +20,7 @@ permalink: priser/
 | Lukning/Genåbning	                                                    |     600,00 |
 | Genåbning af ubebyggede sommerhusgrunde + betaling af forfaldne restancer |    1500,00 |
 
-Taksterne gælder fra 1. Oktober 2020
+Taksterne gælder fra 1. Oktober 2021
 
 Vandafgift forfalder for fastboende halvårsvis hver den 1. oktober og 1. april med seneste 
 betalingsfrist d. 15. december og 15. juni. For sommerhuse årligt forfald 1. oktober med 
@@ -42,3 +42,7 @@ All gebyrer er excl. 25% moms og godkendt af kommunalbestyrelsen.
 Omfatter anlægsbidrag, ledningsbidrag, stop/stikledning excl. moms)
 
 Institutioners, erhvervsbrug samt større forbrugeres tilslutningsafgift efter bestyrelsens bedømmelse of iøvrigt iflg. vejledning fra miljøstyrelsen.
+
+# Flytning
+
+Ved flytning skal oplysninger sendes til [Marianne Nielsen](mailto:mni@landbonord.dk)

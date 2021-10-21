@@ -7,53 +7,42 @@ permalink: bestyrelse/
 # Bestyrelsen
 
 **Formand**
-<p class="h-card">
-  <span class="p-name">Peter Rosenbeck</span>
-</p>  
+
+Peter Rosenbeck
+
 Mobil: 61339884
 
 **Næstformand**
 
-<p class="h-card">
-  <span class="p-name">Thomas Kristoffersen</span><br />
-</p>  
-Tlf.: 52301042
+Thomas Christoffersen
+
+Mobil: 52300142
 
 **Kassérer**
 
-<p class="h-card">
-  <span class="p-name">Christian Quist-Bak</span><br />
-</p>  
+Christian Quist-Bak
 
 Tlf.: 22952657
 
 **Sekretær**
 
-<p class="h-card">
-  <span class="p-name">Kristoffer Beck Bundgaard</span>
-</p>  
+Kristoffer Beck Bundgaard
 
 Mobil: 60661040
 
 **Bestyrelsesmedlem**
 
-<p class="h-card">
-  <span class="p-name">Lasse Bertelsen</span>
-</p>  
+Lasse Bertelsen
 
 Mobil: 22923281
 
 **Suppleant**
 
-<p class="h-card">
-  <span class="p-name">Karlo Horn</span>
-</p>  
+Karlo Horn
 
 **Vandværkets Bestyrer**
 
-<p class="h-card">
-  <span class="p-name">Thomas Kristoffersen</span><br />
-</p>  
+Thomas Christoffersen
 
-Tlf.: 52300142
+Mobil: 52300142
 
