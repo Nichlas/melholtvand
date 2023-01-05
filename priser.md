@@ -20,7 +20,7 @@ permalink: priser/
 | Lukning/Genåbning	                                                    |     600,00 |
 | Genåbning af ubebyggede sommerhusgrunde + betaling af forfaldne restancer |    1500,00 |
 
-Taksterne gælder fra 1. Oktober 2021
+Taksterne gælder fra 1. Oktober 2022
 
 Vandafgift forfalder for fastboende halvårsvis hver den 1. oktober og 1. april med seneste 
 betalingsfrist d. 15. december og 15. juni. For sommerhuse årligt forfald 1. oktober med 
