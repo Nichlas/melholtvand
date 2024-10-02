@@ -48,4 +48,4 @@ Institutioners, erhvervsbrug samt større forbrugeres tilslutningsafgift efter b
 
 # Flytning
 
-Ved flytning skal oplysninger sendes til [Marianne Nielsen](mnin@agrinord.dk)
+Ved flytning skal oplysninger sendes til [Marianne Nielsen](mailto:mni@revice.dk)
