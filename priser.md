@@ -23,7 +23,7 @@ permalink: priser/
 ₁ Ved forbrug over 2.000 m3 pr. år, afregnes efterfølgende til m3 til en pris på kr. 5,00
 ekskl. moms
 
-Taksterne gælder fra 1. Oktober 2023
+Taksterne gælder fra 1. Oktober 2024
 
 Vandafgift forfalder for fastboende halvårsvis hver den 1. oktober og 1. april med seneste 
 betalingsfrist d. 15. december og 15. juni. For sommerhuse årligt forfald 1. oktober med 

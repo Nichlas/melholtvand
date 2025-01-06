@@ -36,10 +36,6 @@ Lasse Bertelsen
 
 Mobil: 22923281
 
-**Suppleant**
-
-Karlo Horn
-
 **Vandværkets Bestyrer**
 
 Thomas Christoffersen

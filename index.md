@@ -6,7 +6,7 @@ permalink: /
 
 # Om Vandværket
 
-Vandværket er et interessentskab stiftet d. 10 August 1950, og har hjemsted i Brønderslev Kommune.
+Vandværket startet d. 10 August 1950, og har hjemsted i Brønderslev Kommune.
 
 Se resultater af de seneste vandprøver af [AnalyTech Miljølaboratorium A/S](http://www.analytech.dk/Link.aspx?CustomerID=8379)
 
