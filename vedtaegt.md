@@ -10,5 +10,5 @@ Vedtægt og Dokumenter
  * [Vandforsyningsreguativ for Melholt Vandværk A.m.b.a.]({{ site.url }}/assets/Vandforsyningsregulativ Melholt Vandværk.pdf)
  * [Regnskab 2024]({{ site.url }}/assets/Regnskab 2024 Melholt Vandværk.pdf)
  
-Se resultater af de seneste vandprøver af [AnalyTech Miljølaboratorium A/S](http://www.analytech.dk/Link.aspx?CustomerID=8379)
+Se resultater af de seneste vandprøver af [AnalyTech Miljølaboratorium A/S](https://analytech.sgs.com/8379/Places)
 
